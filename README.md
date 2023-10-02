@@ -1,0 +1,1 @@
+The project that I am developing is a recipe website. The skills that I will have demonstrated after completeting it is a solid understanding of the basics of html. I will use hyperlinks, images and emphasizations to make the website more appealing.
